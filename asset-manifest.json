@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/dhafarega/static/css/main.5fa278fe.css",
-    "main.js": "/dhafarega/static/js/main.1d0f4e82.js",
+    "main.js": "/dhafarega/static/js/main.f9ab4440.js",
     "static/js/787.b7af92ad.chunk.js": "/dhafarega/static/js/787.b7af92ad.chunk.js",
     "static/media/Person-2.png": "/dhafarega/static/media/Person-2.4896d9927e3a2df5f505.png",
     "static/media/Person.png": "/dhafarega/static/media/Person.e2279d4c996e2d1c50a4.png",
     "static/media/My-Images-2.jpeg": "/dhafarega/static/media/My-Images-2.e2efcc13593efc5ff469.jpeg",
     "index.html": "/dhafarega/index.html",
     "main.5fa278fe.css.map": "/dhafarega/static/css/main.5fa278fe.css.map",
-    "main.1d0f4e82.js.map": "/dhafarega/static/js/main.1d0f4e82.js.map",
+    "main.f9ab4440.js.map": "/dhafarega/static/js/main.f9ab4440.js.map",
     "787.b7af92ad.chunk.js.map": "/dhafarega/static/js/787.b7af92ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fa278fe.css",
-    "static/js/main.1d0f4e82.js"
+    "static/js/main.f9ab4440.js"
   ]
 }
