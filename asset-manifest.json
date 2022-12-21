@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/dhafarega/static/css/main.1c5b8759.css",
-    "main.js": "/dhafarega/static/js/main.591b7eb6.js",
+    "main.css": "/dhafarega/static/css/main.de80a17f.css",
+    "main.js": "/dhafarega/static/js/main.30efa651.js",
     "static/js/787.b7af92ad.chunk.js": "/dhafarega/static/js/787.b7af92ad.chunk.js",
     "static/media/Person-2.png": "/dhafarega/static/media/Person-2.4896d9927e3a2df5f505.png",
+    "static/media/JS.png": "/dhafarega/static/media/JS.bb5cdc195b8272539fbf.png",
     "static/media/Person.png": "/dhafarega/static/media/Person.e2279d4c996e2d1c50a4.png",
     "static/media/My-Images-2.jpeg": "/dhafarega/static/media/My-Images-2.e2efcc13593efc5ff469.jpeg",
+    "static/media/CSS.png": "/dhafarega/static/media/CSS.0fedf47c041ce5fe3a78.png",
+    "static/media/React.png": "/dhafarega/static/media/React.dcae6f8ce25660e9ace2.png",
+    "static/media/Bootstrap.png": "/dhafarega/static/media/Bootstrap.2f61d25bb86aba816883.png",
+    "static/media/HTML.png": "/dhafarega/static/media/HTML.f01b43a2887e2ffcb383.png",
     "index.html": "/dhafarega/index.html",
-    "main.1c5b8759.css.map": "/dhafarega/static/css/main.1c5b8759.css.map",
-    "main.591b7eb6.js.map": "/dhafarega/static/js/main.591b7eb6.js.map",
+    "main.de80a17f.css.map": "/dhafarega/static/css/main.de80a17f.css.map",
+    "main.30efa651.js.map": "/dhafarega/static/js/main.30efa651.js.map",
     "787.b7af92ad.chunk.js.map": "/dhafarega/static/js/787.b7af92ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c5b8759.css",
-    "static/js/main.591b7eb6.js"
+    "static/css/main.de80a17f.css",
+    "static/js/main.30efa651.js"
   ]
 }
